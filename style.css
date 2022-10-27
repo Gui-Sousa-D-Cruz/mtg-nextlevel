@@ -28,8 +28,15 @@ h3{
     text-align: left;
 }
 
+h4, .contagem{
+    display: inline;
+    text-align: left;
+    padding: 10px;
+    
+}
+
 img{
-    height: 30vw;
+    height: 35vw;
 }
 
 
